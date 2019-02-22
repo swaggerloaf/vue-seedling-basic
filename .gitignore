@@ -1,6 +1,7 @@
 # Logs
 
 dist
+db.json
 
 logs
 *.log
